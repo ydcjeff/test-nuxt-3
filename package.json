@@ -1,0 +1,24 @@
+{
+  "name": "example-use-async-data",
+  "private": true,
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "destr": "^1.1.0",
+    "h3": "^0.4.2",
+    "nuxt3": "latest",
+    "ohmyfetch": "^0.4.15",
+    "std-env": "^3.0.1",
+    "ufo": "^0.8.1"
+  },
+  "dependencies": {
+    "@nuxt/devalue": "^2.0.0",
+    "defu": "^5.0.1",
+    "unenv": "^0.4.3",
+    "vue": "^3.2.31",
+    "vue-bundle-renderer": "^0.3.5"
+  }
+}
